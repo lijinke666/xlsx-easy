@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/l/xlsx-easy.svg?style=flat-square)](https://www.npmjs.com/package/xlsx-easy)
 [![npm version](https://img.shields.io/npm/v/xlsx-easy.svg?style=flat-square)](https://badge.fury.io/js/xlsx-easy)
 
-so easy to use xlsx or node-xlsx
+so easy to use xlsx & node-xlsx
 
 ## Installation
 
